@@ -1,0 +1,13 @@
+{
+	"type": "Collection",
+	"properties": {
+		"StateName": {
+			"name": "StateName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "StateName",
+			"order": 0
+		}
+	}
+}

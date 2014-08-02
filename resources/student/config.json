@@ -1,0 +1,61 @@
+{
+	"type": "Collection",
+	"properties": {
+		"FirstName": {
+			"name": "FirstName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "FirstName",
+			"order": 0
+		},
+		"LastName": {
+			"name": "LastName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "LastName",
+			"order": 1
+		},
+		"Address1": {
+			"name": "Address1",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "Address1",
+			"order": 2
+		},
+		"Address2": {
+			"name": "Address2",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "Address2",
+			"order": 3
+		},
+		"State": {
+			"name": "State",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "State",
+			"order": 4
+		},
+		"City": {
+			"name": "City",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "City",
+			"order": 5
+		},
+		"Zip": {
+			"name": "Zip",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Zip",
+			"order": 6
+		}
+	}
+}
